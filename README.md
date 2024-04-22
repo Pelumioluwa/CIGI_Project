@@ -24,12 +24,12 @@ The Topic Modelling Model assigns various countries to different clusters based 
 Language Analysis Visualization
 To visualize the language analysis of the countries, you can access the interactive visualization on Tableau Public. Click the link below:
 
-[UNOEWG Language Analysis Clusters](https://public.tableau.com/app/profile/pelumi.abiola/viz/UNOEWGLanguageAnalysisClusters/LanguageAnalysis)
+[UN OEWG Language Analysis Clusters](https://public.tableau.com/app/profile/pelumi.abiola/viz/UNOEWGLanguageAnalysisClusters/LanguageAnalysis)
 
 Sentiment Analysis Visualization
 To visualize the sentiment analysis of the countries, you can access the interactive visualization on Tableau Public. Click the link below:
 
-[UNOEWG Language Analysis Clusters](https://public.tableau.com/app/profile/pelumi.abiola/viz/UNOEWGSentimentAnalysisClusters/Sentimentanalysis)
+[UN OEWG Language Analysis Clusters](https://public.tableau.com/app/profile/pelumi.abiola/viz/UNOEWGSentimentAnalysisClusters/Sentimentanalysis)
 
 
 ## Contributions
