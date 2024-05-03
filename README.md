@@ -2,6 +2,18 @@
 
 Project Senticribe aims to analyze video discussions from the UN Open-ended Working Group (OEWG) by analyzing the video recordings of meetings across all sessions. This project involves the development of four models to provide insights into the discussions and dynamics of the meetings, overall conclusions and sentiments of speakers .
 
+## Product Strategy
+
+Overview of the product strategy:
+
+The objective of the Sentiscribe project is to develop a comprehensive system comprising four distinct models designed to interact seamlessly with each other. These models include sentiment analysis and language analysis, both of which feed into a topic modeling model. 
+
+The sentiment analysis and language analysis models provide initial insights, which are then further refined by the topic modeling model. This refined analysis assigns specific topics to clusters identified in the sentiment and language analysis, enhancing the understanding of each cluster's focus.
+
+The resulting clusters, along with their respective topics, are stored within a structured dataset. Each dataset entry includes information about the relevant countries, the clusters they belong to, other countries within the same clusters, and the topic associated with each cluster.
+
+This dataset serves as the backbone for a data pipeline that powers the Space Chat application. Space Chat provides users with a unified interface to interact with the dataset and access various analyses conducted. Through Space Chat, users can efficiently query their data and retrieve insights from all analyses with a single interaction.
+
 ## Data
 This project utilized video data. A sample can be found [here](https://webtv.un.org/en/asset/k1a/k1a35z9guj).
 
