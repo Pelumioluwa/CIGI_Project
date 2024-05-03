@@ -15,7 +15,7 @@ The resulting clusters, along with their respective topics, are stored within a 
 This dataset serves as the backbone for a data pipeline that powers the Space Chat application. Space Chat provides users with a unified interface to interact with the dataset and access various analyses conducted. Through Space Chat, users can efficiently query their data and retrieve insights from all analyses with a single interaction.
 
 ## AI Tools
-This project was built utilizing Microsoft Azure
+This project was built utilizing Microsoft Azure and OpenAI
 
 ## Data
 This project utilized video data. A sample can be found [here](https://webtv.un.org/en/asset/k1a/k1a35z9guj).
